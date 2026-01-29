@@ -3,7 +3,7 @@
 👋 Hi, I'm Aniket Waichal, a Python developer with 3+ years of experience, including 2+ years in Generative AI (FastAPI, LangChain, RAG, Azure AI).
 
 ## 📄 Resume
-Download my resume: [Resume PDF](./Resume.pdf)
+Download my resume: [Resume PDF](./aniket_waichal_resume.pdf)
 
 ## 💻 GitHub Projects
 - [RAG-Service](https://github.com/BackdoorSentient/genai_rag_service) – RAG-powered AI Assistant
