@@ -13,8 +13,8 @@
 ## 📄 Resume
 Download my resume: [Resume PDF](./aniket_waichal_resume.pdf)
 
-## 💻 GitHub 8888Projects
-8888
+## 💻 GitHub Projects
+
 ### 🤖 GenAI & Agentic AI
 - [RAG-Service](https://github.com/BackdoorSentient/genai_rag_service) – RAG-powered AI Assistant for querying domain knowledge
 - [RAGA-Service](https://github.com/BackdoorSentient/genai-raga-langgraph) – Multi-step AI workflows using LangGraph & RAG
