@@ -1,6 +1,6 @@
 # RAG LLM System (Python + FastAPI)
 
-🚀 **project demonstrating:**
+🚀 **Hire-ready project demonstrating:**
 - RAG (Retrieval-Augmented Generation) pipeline
 - Multi-LLM support (Ollama, OpenAI, Azure)
 - FAISS / Pinecone vector store
@@ -30,16 +30,17 @@
 
 ## Architecture Overview
 
-User Query  
-↓  
-FastAPI API Layer  
-↓  
-Retriever (FAISS / Pinecone)  
-↓  
-Relevant Chunks  
-↓  
-LLM (Ollama / OpenAI / Azure)  
-↓  
+```text
+User Query
+   ↓
+FastAPI API Layer
+   ↓
+Retriever (FAISS / Pinecone)
+   ↓
+Relevant Chunks
+   ↓
+LLM (Ollama / OpenAI / Azure)
+   ↓
 Final Answer (Grounded in retrieved context)
 
 ---
@@ -49,8 +50,9 @@ Final Answer (Grounded in retrieved context)
 1. Clone repo:
 
 ```bash
-git clone https://github.com/BackdoorSentient/genai_rag_service.git
+git https://github.com/BackdoorSentient/genai_rag_service.git
 cd genai_rag_service
 
-License
+##License
+
 MIT License © 2026 Aniket Waichal
