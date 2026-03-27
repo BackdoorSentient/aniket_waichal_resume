@@ -1,6 +1,6 @@
 # RAG LLM System (Python + FastAPI)
 
-🚀 **Hire-ready project demonstrating:**
+🚀 **project demonstrating:**
 - RAG (Retrieval-Augmented Generation) pipeline
 - Multi-LLM support (Ollama, OpenAI, Azure)
 - FAISS / Pinecone vector store
