@@ -1,5 +1,5 @@
 ## 💡 About Me
-- Python developer with 3.5+ years of experience, 2+ years in Generative AI
+- AI Engineer with 4.2 + years of experience
 - Experienced in FastAPI, LangChain, RAG, vector databases, and Azure AI
 - Skilled in designing AI pipelines, building LLM-powered applications, and working with RAG/agentic workflows
 - 🟢 Currently open to Backend / GenAI engineering roles
